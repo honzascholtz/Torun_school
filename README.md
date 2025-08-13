@@ -1,8 +1,8 @@
-What do after running through the Jupyter notebooks: 
+# What do after running through the Jupyter notebooks: 
 
 After we have finished with the Jupyter Notebooks and we have the code to analyze our IFU observations, we can now go and focus on the science we can do with the data. You can choose of two projects:
 
-A) ISM and dust properties. 
+## A) ISM and dust properties. 
 In this part of the project we will instead focus on the ISM properties of our source. 
 
 1. Fit the individual blobs in the system to get Halpha, [NII], [OIII] doublet, Hbeta, [SII] double.
@@ -19,7 +19,7 @@ Scale of 0.14 kpc^2 / spaxel - now we can scale down SFR to SFRD
 8. Estimate the density from [OII] and [SII] using Sanders et al. (2016)  - can you map the densities of just integrated z? (OR: done for spaxel-by-spaxel)
 
 
-B) Kinematics and outflows of this merger
+## B) Kinematics and outflows of this merger
 In this part of the project, you main aim is to analyze the kinematics of the merger and also analyze the outflow properties of this system. You can:
 
 1. Extract spectra of the different blobs and put them on the BPT diagram to determine if any blob hosts an AGN (OR: almost done)
